@@ -1,4 +1,4 @@
-# Pima-Indians-Dibetes-Prediction
+# Pima-Indians-Diabetes-Prediction
 Welcome to the "Pima Indians Diabetes Prediction with Random Forest Classifier" repository! This project aims to explore and analyze the famous Pima Indians Diabetes dataset using the power of machine learning and the Random Forest classification algorithm.
 About the Dataset:
 The Pima Indians Diabetes dataset contains various health-related features of Pima Indian women, along with a binary label indicating whether or not they developed diabetes within five years. This dataset has been widely used in the machine learning community to demonstrate classification techniques due to its real-world relevance and challenges.
